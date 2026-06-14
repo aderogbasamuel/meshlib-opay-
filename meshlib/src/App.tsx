@@ -7,7 +7,6 @@ import {
   WifiOff,
   Bluetooth,
   Cpu,
-  Battery,
   Send,
   RefreshCw,
   Play,
